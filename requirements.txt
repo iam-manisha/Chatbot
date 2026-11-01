@@ -1,0 +1,5 @@
+#What is requirements.txt?
+#It is a file that lists the Python packages our project needs.
+
+fastapi
+uvicorn[standard]
